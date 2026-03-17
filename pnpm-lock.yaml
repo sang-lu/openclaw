@@ -126,8 +126,8 @@ importers:
         specifier: 21.3.2
         version: 21.3.2
       gaxios:
-        specifier: 7.1.3
-        version: 7.1.3
+        specifier: ^7.1.3
+        version: 7.1.4
       google-auth-library:
         specifier: ^10.6.2
         version: 10.6.2
@@ -11840,7 +11840,7 @@ snapshots:
 
   gcp-metadata@8.1.2:
     dependencies:
-      gaxios: 7.1.3
+      gaxios: 7.1.4
       google-logging-utils: 1.1.3
       json-bigint: 1.0.0
     transitivePeerDependencies:
